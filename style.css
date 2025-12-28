@@ -1,0 +1,89 @@
+body{background-image:url(image/beuty.jpg);
+
+background-size: 100% 700px;
+background-repeat:no repeat;
+margin:0px;
+padding:0px;
+background-attachment:fixed;background-repeat:no repeat;
+
+
+
+background-color:none;
+}
+
+nav{width:1328px;height:200px;float:left;background-color:rgba(0,0,0,0.8);padding:10px;margin;0px
+}
+
+#blue{color:white;text-align:center;font-size:50px;padding:0px;margin-top:20px;font-family:Verdana}
+
+
+#menu-btn{width:600px;height:50px;box-sizing:border-box;
+}
+
+#home{ width:20%;color:white;box-sizing:border-box;
+border-width:2px;border-style:solid;border-color:white;text-align:center;
+font-size:20px;font-family:sans-serif;mrgin-left:40px}
+
+a{text-decoration:none;color:white;
+}
+
+section{width:450px;height:500px;float:right;background-color:rgba(0,0,0,0.8);background-size:700px 700px;padding:0px;margin:0px
+}
+#g-btn{width:200px;height:180px;float:left;border-width:5px;border-color:white;border-style:solid;margin-left:150px;
+margin-top:100px;font-size:150px;color:white;text-align:center;font-family:verdana;margin-bottom:30px
+}
+#be-btn{color:white;text-align:center;font-size:30px;font-family:verdana;margin-left:80px}
+fieldset{width:330px;height:350px;float:left;border-width:1px;border-style:solid;border-color:WHITE;margin-left:65px;margin-top:50px;
+padding:30px;box-sizing:border-box;
+}
+legend{color:white;font-size:30px;font-family:verdana;margin-bottom:20px
+}
+form{color:white;font-family:sans-serif;font-size:20px}
+#f-btn{ width:100%;height:35px;background-color:inherit;border-width:1px;border-style:solid;
+border-color:white;margin-bottom:20px;color:white;font-size:20px
+}
+#lo-btn{width:110px;height:45px;float:right;margin-top:10px;background-color:inherit;border-width:1px;border-style:solid;
+border-color:white;color:white;font-family:sans-serif;font-size:18px;}
+legend{font-family:Verdana}
+#contact-button{font-family:sans-serif;font-size:20px;color:white;margin:0px;padding:0px;line-height:40px}
+
+#sec-btn{width:100%;height:2000px;float:left;}
+
+#brand{width:100%;height:500px;background-color:rgba(225,225,225,0.8);float:left;text-align:center;font-family:sans-serif;font-size:30px;}
+
+#brand-bar{width:200px;height:80px;border-style:solid;border-width:3px;border-color:black;float:left;margin-left:95px;background-color:white}
+
+#choose{text-align:center;font-family:sans-serif;font-size:30px;}
+
+#search-button{width:60%;height:40px;
+	background-color:white;border:none;margin-top:60px;border-width:1px;border-style:solid;
+
+
+	border-color:#ccc;}
+
+	#v-btn{width:200px;height:80px;float:left}
+
+#dove{color:white;text-align:center;font-size:30px;font-family:verdana;margin:0;padding-top:20px}
+
+#dove-btn{width:260px;height:290px;float:left;border-width:3px;border-color:black;border-style:solid;margin-left:50px;margin-top:40px}
+
+#dove-name{width:100%;height:400px;float:left;background-color:rgba(0,0,0,0);margin-top:40px}
+
+
+#zest{color:white;text-align:center;font-size:30px;font-family:verdana;margin:0;padding-top:20px}
+
+#zest-btn{width:260px;height:290px;float:left;border-width:3px;border-color:black;border-style:solid;margin-left:50px;margin-top:40px}
+
+#zest-name{width:100%;height:400px;float:left;background-color:rgba(0,0,0,0);margin-top:40px}
+
+
+#beauty{color:white;text-align:center;font-size:30px;font-family:verdana;margin:0;padding-top:20px}
+
+#beauty-btn{width:260px;height:290px;float:left;border-width:3px;border-color:black;border-style:solid;margin-left:50px;margin-top:40px}
+
+#beauty-name{width:100%;height:400px;float:left;background-color:rgba(0,0,0,0);margin-top:40px}
+
+
+footer{width:100%;height:45px;background-color:#ccc;float:left}
+
+#Genreted{font-family:sans-serif;text-align:center;}
